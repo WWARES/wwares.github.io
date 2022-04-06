@@ -5,9 +5,11 @@
 
 <head>
 	<meta charset="utf-8">
-<title>contact</title>
+<title>Pages</title>
 
 
+
+<base href="https://wwares.github.io">
 
 
 
@@ -25,19 +27,17 @@
 
 
 <!-- Open Graph image and Twitter Card metadata -->
-<meta name="twitter:title" content="contact"/>
-<meta name="twitter:description" content=""/>
-<meta property="og:title" content="contact" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="article" />
-<meta property="og:url" content="https://examplesite.com/contact/" /><meta property="article:section" content="" />
-
-
+<meta name="twitter:title" content="Pages"/>
+<meta name="twitter:description" content="This is meta description"/>
+<meta property="og:title" content="Pages" />
+<meta property="og:description" content="This is meta description" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://wwares.github.io/pages/" />
 
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="contact"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:title" content="Pages"/>
+<meta name="twitter:description" content="This is meta description"/>
 
 
 
@@ -224,7 +224,7 @@
 
                       <li>
                         <a class="dropdown-item " 
-                        href="/terms-and-conditions/">Terms &amp; Conditions</a>
+                        href="/pages/terms-and-conditions">Terms &amp; Conditions</a>
                       </li>
                       
                     </ul>
@@ -237,7 +237,7 @@
                   
                   
                   
-                  <li class="nav-item active">
+                  <li class="nav-item ">
                     <a class="nav-link" 
                       href="/contact/">Contact</a>
                   </li>
@@ -261,25 +261,28 @@
 	<main>
 		
 
+
+
+
 <section class="page-header">
   <div class="container-xxl">
     <div class="row">
       <div class="col-lg-12">
         <div class="block">
           <div class="section-title text-center mb-0">
-            <h1 class="title underline-none" data-aos="fade-up">contact</h1>
+            <h1 class="title underline-none" data-aos="fade-up">Pages</h1>
             <nav aria-label="breadcrumb" data-aos="fade-up" data-aos-delay="200">
               <ol class="breadcrumb justify-content-center bg-transparent p-0 mb-0">
                 <li class="breadcrumb-item"><a class="link-primary" href="/">Home</a></li>
-                <li class="breadcrumb-item active" aria-current="page">contact</li>
+                <li class="breadcrumb-item active" aria-current="page">Pages</li>
               </ol>
             </nav>
           </div>
         </div>
 
         <div class="has-circle">
-          <img class="wave-1 w-100" src="https://examplesite.com/images/waves/05.svg" alt="*">
-          <img class="wave-2 w-100" src="https://examplesite.com/images/waves/04.svg" alt="*">
+          <img class="wave-1 w-100" src="https://wwares.github.io/images/waves/05.svg" alt="*">
+          <img class="wave-2 w-100" src="https://wwares.github.io/images/waves/04.svg" alt="*">
           <span class="circle-1 ratio-32" data-rellax-speed="-2"></span>
           <span class="circle-2 ratio-73 fill" data-rellax-speed="-2"></span>
           <span class="circle-3 ratio-20 fill" data-rellax-speed="1"></span>
@@ -296,154 +299,19 @@
     </div>
   </div>
 </section>
-
 <section class="section">
-  <div class="container">
-    <div class="row justify-content-center align-items-center">
-      <div class="col-lg-5 col-md-8 text-center mb-5 mb-lg-0" data-aos="fade-up">
-        <div class="pr-0 pr-lg-5">
-          
-          
-          
-          <img loading="lazy" decoding="async" class="img-fluid" width="575" height="459" src="/images/vectors/contact_hu5f8d1930eaf4221f582a093d9a00c233_13341_575x0_resize_box_3.png" alt="cobtact image" onerror="this.onerror=null;this.src='\/images\/vectors\/contact_hu5f8d1930eaf4221f582a093d9a00c233_13341_575x0_resize_box_3.png'">
+  <div class="container-xxl">
+    <div class="row">
+      <div class="col-lg-10 mx-auto">
+        <div class="content">
           
         </div>
-      </div>
-      
-      <div class="col-lg-5 col-md-10" data-aos="fade-up">
-        <div class="contact-form">
-          <div class="mb-4">
-            <h3>Send A Message</h3>
-          </div>
-          <form id="contact-form" action="https://formspree.io/f/xgernlzd" method="POST">
-            <p id="form-status" class="form-status"></p>
-            <div class="form-group">
-              <label for="name">Full Name</label>
-              <input class="form-control shadow-none" id="name" name="full_name" type="text" placeholder="Full Name" required>
-            </div>
-            <div class="form-group">
-              <label for="email">Email Address</label>
-              <input class="form-control shadow-none" id="email" name="email" type="email" placeholder="Email Address" required>
-            </div>
-            <div class="form-group">
-              <label for="message">Your Message</label>
-              <textarea class="form-control shadow-none" id="message" name="Comment" rows="4" required></textarea>
-            </div>
-
-            <button class="btn btn-primary w-100 mt-4" type="submit" aria-label="Send Message">Send Message</button>
-          </form>
-        </div>
-      </div>
-
-      <script>
-        var form = document.getElementById('contact-form');
-        async function handleSubmit(event) {
-          event.preventDefault();
-          var status = document.getElementById("form-status");
-          var data = new FormData(event.target);
-          fetch(event.target.action, {
-            method: form.method,
-            body: data,
-            headers: {
-              'Accept': 'application/json'
-            }
-          }).then(response => {
-            status.innerHTML = "Thanks for your submission!";
-            form.reset()
-          }).catch(error => {
-            status.innerHTML = "Oops! There was a problem submitting your form";
-          });
-        }
-        form.addEventListener("submit", handleSubmit)
-      </script>
-      
-    </div>
-
-    <div class="section pb-0">
-      <div class="row justify-content-center">
-        <div class="col-12">
-          <div class="section-title text-center" data-aos="fade-up">
-            <p class="text-uppercase">Contact us</p>
-            <h2 class="title">Get In Touch</h2>
-          </div>
-        </div>
-
-        
-        <div class="col-xl-3 col-lg-4 col-md-6 contact-widget" data-aos="fade-up">
-          <div class="block text-center">
-            <h3 class="mb-4">Phone</h3>
-            <ul class="list-unstyled">
-              
-              
-              <li><a href="tel:&#43;704-555-0127"><i class="las la-phone"></i>&#43;704-555-0127</a></li>
-              
-              
-              
-              <li><a href="tel:&#43;205-857-2321"><i class="las la-phone"></i>&#43;205-857-2321</a></li>
-              
-              
-              
-              <li><a href="tel:&#43;002-569-6969"><i class="las la-phone"></i>&#43;002-569-6969</a></li>
-              
-              
-            </ul>
-          </div>
-        </div>
-        
-
-        
-        <div class="col-xl-3 col-lg-4 col-md-6 contact-widget" data-aos="fade-up" data-aos-delay="100">
-          <div class="block text-center">
-            <h3 class="mb-4">Email Address</h3>
-            <ul class="list-unstyled">
-              
-              
-              <li><a href="mailto:info@andromeda.io"><i class="las la-envelope-open-text"></i>info@andromeda.io</a></li>
-              
-              
-              
-              <li><a href="mailto:smith@anderson.io"><i class="las la-envelope-open-text"></i>smith@anderson.io</a></li>
-              
-              
-              
-              <li><a href="mailto:john@anderson.io"><i class="las la-envelope-open-text"></i>john@anderson.io</a></li>
-              
-              
-            </ul>
-          </div>
-        </div>
-        
-
-        
-        <div class="col-xl-3 col-lg-4 col-md-12 contact-widget" data-aos="fade-up" data-aos-delay="200">
-          <div class="block text-center">
-            <h3 class="mb-4">Social Media</h3>
-            <ul class="list-unstyled">
-              
-              
-              <li><a href="#!"><i class="lab la-facebook-f"></i>Andromeda</a></li>
-              
-              
-              
-              <li><a href="#!"><i class="lab la-twitter"></i>AndromedaTweet</a></li>
-              
-              
-              
-              <li><a href="#!"><i class="lab la-linkedin-in"></i>AndromedaIn</a></li>
-              
-              
-              
-              <li><a href="#!"><i class="lab la-pinterest"></i>AndromedaPin</a></li>
-              
-              
-            </ul>
-          </div>
-        </div>
-        
       </div>
     </div>
   </div>
 </section>
+
+
 
 
 	</main>
@@ -517,7 +385,7 @@
         </div>
 
         <div class="has-circle has-bg-anim" data-aos="fade-in">
-          <img class="wave-1 w-100" src="https://examplesite.com/images/waves/05.svg" alt="*">
+          <img class="wave-1 w-100" src="https://wwares.github.io/images/waves/05.svg" alt="*">
           <span class="circle-1 ratio-32"></span>
           <span class="circle-2 ratio-85 fill"></span>
           <span class="circle-3 ratio-47"></span>
@@ -595,13 +463,13 @@
 
           <ul class="footer-links list-unstyled">
             
-            <li><a href="/about/">About</a></li>
+            <li><a href="/pages/about/">About</a></li>
             
             <li><a href="/blog/">Blog</a></li>
             
             <li><a href="/blog/post-1/">Blog Details</a></li>
             
-            <li><a href="/terms-and-conditions/">Terms &amp; Conditions</a></li>
+            <li><a href="/pages/terms-and-conditions/">Terms &amp; Conditions</a></li>
             
           </ul>
         </div>
