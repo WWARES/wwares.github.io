@@ -23,7 +23,7 @@ hasChildren = true
   [[main]]
   parent = "Pages"
   name = "Terms & Conditions"
-  url = "terms-and-conditions/"
+  url = ""pages/terms-and-conditions"
   weight = 7
   
 [[main]]
@@ -35,7 +35,7 @@ weight = 5
 # footer menu
 [[footer]]
 name = "About"
-url = "about/"
+url = "pages/about/"
 weight = 1
 
 [[footer]]
@@ -50,5 +50,5 @@ weight = 3
 
 [[footer]]
 name = "Terms & Conditions"
-url = "terms-and-conditions/"
+url = "pages/terms-and-conditions/"
 weight = 4
