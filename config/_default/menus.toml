@@ -23,7 +23,7 @@ hasChildren = true
   [[main]]
   parent = "Pages"
   name = "Terms & Conditions"
-  url = ""pages/terms-and-conditions"
+  url = "pages/terms-and-conditions"
   weight = 7
   
 [[main]]
