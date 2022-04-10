@@ -82,7 +82,7 @@ staticDir = ['static']
   [[menu.nav]]
     name = "Resources"
     url = "/resources/"
-    weight = 3
+    weight = 4
 
 [markup.goldmark.renderer]
 unsafe= true
