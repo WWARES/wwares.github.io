@@ -41,8 +41,8 @@ params:
 
   # Header colors
   header_heading_color: "#fff"
-  header_background_color: "#f5b942"
-  header_background_color_secondary: "#f5b942"
+  header_background_color: "#a88332"
+  header_background_color_secondary: "#a88332"
 
   # Text colors
   section_headings_color: "#159957"
