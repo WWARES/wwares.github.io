@@ -44,10 +44,10 @@ a {
       padding: 0.75rem;
       font-size: 0.9rem; } }
 .page-header {
-  color: #fff;
+  color: #000;
   text-align: center;
-  background-color: #a88332;
-  background-image: linear-gradient(120deg, #a88332, #a88332); }
+  background-color: #e0e0de;
+  background-image: linear-gradient(120deg, #e0e0de, #e0e0de); }
   @media screen and (min-width: 64em) {
     .page-header {
       padding: 5rem 6rem; } }
