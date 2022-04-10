@@ -21,16 +21,6 @@ EOC IC-205 Frequency Plan May 2021 (pdf)Download</description>
     </item>
     
     <item>
-      <title>NASA Images</title>
-      <link>https://wwares.github.io/resources/nasa-images/</link>
-      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://wwares.github.io/resources/nasa-images/</guid>
-      <description>The below images are from the NASA Image and Video Library &amp;ndash; indulge yourself, revel in their beauty. Also, the built-in figure shortcode is shown for each image.
- {{&amp;lt; figure img=&amp;#34;sun.jpg&amp;#34; caption=&amp;#34;The Sun is the star at the center of the Solar System. It is a nearly perfect sphere of hot plasma, with internal convective motion that generates a magnetic field via a dynamo process. It is by far the most important source of energy for life on Earth.</description>
-    </item>
-    
-    <item>
       <title>(Hu)go Template Primer</title>
       <link>https://wwares.github.io/resources/hugo-template-primer/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
@@ -38,17 +28,6 @@ EOC IC-205 Frequency Plan May 2021 (pdf)Download</description>
       <guid>https://wwares.github.io/resources/hugo-template-primer/</guid>
       <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
 This document is a brief primer on using Go templates.</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://wwares.github.io/resources/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://wwares.github.io/resources/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
     </item>
     
     <item>
