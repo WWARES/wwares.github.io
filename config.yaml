@@ -40,9 +40,9 @@ params:
   medium_breakpoint: 42em
 
   # Header colors
-  header_heading_color: "#fff"
-  header_background_color: "##9da832"
-  header_background_color_secondary: "#a88332"
+  header_heading_color: "#000"
+  header_background_color: "#e0e0de"
+  header_background_color_secondary: "#e0e0de"
 
   # Text colors
   section_headings_color: "#159957"
