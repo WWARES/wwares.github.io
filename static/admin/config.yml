@@ -16,7 +16,6 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "URL", name: "url", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Resources"
     name: "resources"
@@ -25,7 +24,6 @@ collections:
     fields:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "URL", name: "url", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "Homepage"
     label: "homepage"
