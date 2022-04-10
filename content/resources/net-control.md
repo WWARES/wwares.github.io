@@ -1,9 +1,6 @@
 ---
 title: Net Control Resources
 date: 2019-03-29
-tags:
-  - markdown
-  - typography
 url: net-control
 ---
 
