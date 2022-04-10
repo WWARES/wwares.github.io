@@ -18,18 +18,10 @@ a {
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.2);
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
   transition: color 0.2s, background-color 0.2s, border-color 0.2s; }
-  .btn:hover {
-    color: rgba(255, 255, 255, 0.8);
-    text-decoration: none;
-    background-color: rgba(255, 255, 255, 0.2);
-    border-color: rgba(255, 255, 255, 0.3); }
   .btn + .btn {
     margin-left: 1rem; }
   @media screen and (min-width: 64em) {
@@ -110,7 +102,7 @@ a {
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: normal;
-    color: #159957; }
+    color: #c44633; }
   .main-content p {
     margin-bottom: 1em; }
   .main-content code {
@@ -237,5 +229,5 @@ a {
 
 .btn-primary {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff; }
+  background-color: #c44633;
+  border-color: #c44633; }

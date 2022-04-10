@@ -45,7 +45,7 @@ params:
   header_background_color_secondary: "#e0e0de"
 
   # Text colors
-  section_headings_color: "#159957"
+  section_headings_color: "#c44633"
   body_text_color: "#606c71"
   body_link_color: "#1e6bb8"
   blockquote_text_color: "#819198"
@@ -58,6 +58,11 @@ params:
   border_color: "#dce6f0"
   table_border_color: "#e9ebec"
   hr_border_color: "#eff0f1"
+
+  # btn colors
+  button_text_color: "#fff"
+  button_border_color: "#c44633"
+  button_background_color: "#c44633"
 
 menu:
   nav:

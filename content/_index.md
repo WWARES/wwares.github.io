@@ -2,10 +2,11 @@
 title: Home Pages
 ---
 <div>
-<img alt="ARES logo" src="/images/ares.jpg" style="float:left; margin-right: 3rem" />
+<img alt="ARES logo" src="/images/ares.jpg" style="float:right;" />
 </div>
 
 ## Walla Walla County ARES Leadership
+
 * Emergency Coordinator - Keith Carlin N7ACW
 * Assistant EC, Digital - Jeff Stidham AL1Q
 * Assistant EC, Communications Trailer - Timber Burton N7DJE
@@ -18,7 +19,7 @@ title: Home Pages
 ---
 
 <div>
-<img alt="radio" src="/images/radio.jpg" style="float:right; margin-left: 3rem" />
+<img alt="radio" src="/images/radio.jpg" style="float:right;" />
 </div>
 
 ## Weekly Training Nets
