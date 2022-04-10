@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Walla Walla ARES &amp; W7DP Club</title>
+    <title>Home Pages on Walla Walla ARES &amp; W7DP Club</title>
     <link>https://wwares.github.io/</link>
-    <description>Recent content in Blog on Walla Walla ARES &amp; W7DP Club</description>
+    <description>Recent content in Home Pages on Walla Walla ARES &amp; W7DP Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 29 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://wwares.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -57,6 +57,35 @@ This document is a brief primer on using Go templates.</description>
       <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
 ▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
 ▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+    </item>
+    
+    <item>
+      <title>Schedule</title>
+      <link>https://wwares.github.io/schedule/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wwares.github.io/schedule/</guid>
+      <description>Event Schedule    DATE EVENT     4 Dec 2021 Parade of Lights   21 May 2022 Onion Man Triathlon   3 - 5 Jun 2022 Tour of Walla Walla Bicycle Race    Meetings Schedule    DATE / TIME MEETING     1st Tuesday of the Month at 7pm W7DP Club Meeting   3rd Monday of the Month at 7pm ARES Meeting    *There are no meetings in December.</description>
+    </item>
+    
+    <item>
+      <title>W7DP Walla Walla Valley Amateur Radio Club</title>
+      <link>https://wwares.github.io/w7dp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wwares.github.io/w7dp/</guid>
+      <description>Monthly Meeting Meetings are held the 1st Tuesday of each month at 7pm.
+The W7DP clubhouse is at the corner of SE Justice Ave and Taumarson Rd, College Place, WA.
+Club Officers  Timber Burton N7DJE - President Davena Burton KC7USG - Vice-president Mikel Potts KB7POT - Secretary Keith Carlin N7ACW - Treasurer Don Grenseman W7UB - Registered Agent David Malcolm KC7JIX - W7DP Station Trustee  Email: w7dp@wwares.org</description>
+    </item>
+    
+    <item>
+      <title>WA7WWC, Lewis Peak Amateur Repeater Association</title>
+      <link>https://wwares.github.io/lewispeak/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wwares.github.io/lewispeak/</guid>
+      <description>Repeaters to serve amateur radio communications in Walla Walla County Repeater frequencies:  146.960 MHz (-600 kHz) (PL 74.4) 443.450 MHz (+5 MHz) (PL 123.0)  Packet Nodes:  AL1Q-7 (W2W) on 145.070 MHz, 1200 baud AL1Q-9 (W2W2) on 145.530 MHz, 1200 baud  Board of Directors  President - Jeff Stidham AL1Q Vice-president - Mikel Potts KB7POT Secretary/Treasurer - Davena Burton KT7JE Emergency Coordinator - Keith Carlin N7ACW Registered Agent - Rick Guse KI7GBU WA7WWC Trustee - Jeff Stidham AL1Q  Purpose Provide voice and digital communication on VHF/UHF for emergency support of Walla Walla County Office of Emergency Management Support Walla Walla County Amateur Radio Emergency Service</description>
     </item>
     
   </channel>
