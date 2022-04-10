@@ -2,10 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://wwares.github.io/about/</loc>
-    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wwares.github.io/cayman-typography/</loc>
+    <loc>https://wwares.github.io/resources/cayman-typography/</loc>
     <lastmod>2019-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wwares.github.io/</loc>
@@ -14,7 +11,7 @@
     <loc>https://wwares.github.io/tags/markdown/</loc>
     <lastmod>2019-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wwares.github.io/post/</loc>
+    <loc>https://wwares.github.io/resources/</loc>
     <lastmod>2019-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wwares.github.io/tags/</loc>
@@ -35,7 +32,7 @@
     <loc>https://wwares.github.io/tags/nasa/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wwares.github.io/nasa-images/</loc>
+    <loc>https://wwares.github.io/resources/nasa-images/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wwares.github.io/tags/shortcodes/</loc>
@@ -44,7 +41,7 @@
     <loc>https://wwares.github.io/tags/sun/</loc>
     <lastmod>2018-12-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wwares.github.io/hugo-template-primer/</loc>
+    <loc>https://wwares.github.io/resources/hugo-template-primer/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wwares.github.io/tags/development/</loc>
@@ -68,8 +65,10 @@
     <loc>https://wwares.github.io/tags/jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wwares.github.io/migrate-from-jekyll/</loc>
+    <loc>https://wwares.github.io/resources/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/pages/</loc>
   </url><url>
     <loc>https://wwares.github.io/schedule/</loc>
   </url><url>

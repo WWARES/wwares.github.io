@@ -14,7 +14,7 @@
   
   
   
-  <link rel="stylesheet" href="https://wwares.github.io/css/cayman.e132d1a6dd2ccf7ac2cc1ef028f8344ea07352b5e952084b5202b45582919ab4.css">
+  <link rel="stylesheet" href="https://wwares.github.io/css/cayman.0fd68b69888c1ff247833ed97112081707f0cb095524990c89f2953bdb07b4c6.css">
   
   
   <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
@@ -43,37 +43,31 @@
       
       
       
-      <a href="/" class="btn">Home</a>
+      <a href="/" class="btn btn-primary">Home</a>
     
       
       
       
       
-      <a href="/schedule" class="btn">Schedule</a>
+      <a href="/schedule" class="btn btn-primary">Schedule</a>
     
       
       
       
       
-      <a href="/lewispeak" class="btn">LPARA</a>
+      <a href="/lewispeak" class="btn btn-primary">LPARA</a>
     
       
       
       
       
-      <a href="/resources/" class="btn">Resources</a>
+      <a href="/resources/" class="btn btn-primary">Resources</a>
     
       
       
       
       
-      <a href="/w7dp" class="btn">W7DP Club</a>
-    
-      
-      
-      
-      
-      <a href="/index.xml" class="btn">RSS</a>
+      <a href="/w7dp" class="btn btn-primary">W7DP Club</a>
     
   </nav>
 </section>
@@ -81,26 +75,6 @@
   <section class="main-content">
     
   <h1>Migrate to Hugo from Jekyll</h1>
-  <div>
-    
-    <strong>Publish date: </strong>2014-03-10
-  </div>
-  
-  
-    <div>
-      <strong>Tags: </strong>
-      
-        
-        
-        
-      
-        
-        
-        
-      
-      <a href="https://wwares.github.io/tags/hugo/">hugo</a>, <a href="https://wwares.github.io/tags/jekyll/">jekyll</a>
-    </div>
-  
   <h2 id="move-static-content-to-static">Move static content to <code>static</code></h2>
 <p>Jekyll has a rule that any directory not starting with <code>_</code> will be copied as-is to the <code>_site</code> output. Hugo keeps all static content under <code>static</code>. You should therefore move it all there.
 With Jekyll, something that looked like</p>
@@ -234,9 +208,6 @@ Liquid::Template.register_tag('image', Jekyll::ImageTag)
 <p>You&rsquo;ll want to remove the Jekyll configuration at this point. If you have anything else that isn&rsquo;t used, delete it.</p>
 <h2 id="a-practical-example-in-a-diff">A practical example in a diff</h2>
 <p><a href="http://heyitsalex.net/">Hey, it&rsquo;s Alex</a> was migrated in less than a <em>father-with-kids day</em> from Jekyll to Hugo. You can see all the changes (and screw-ups) by looking at this <a href="https://github.com/alexandre-normand/alexandre-normand/compare/869d69435bd2665c3fbf5b5c78d4c22759d7613a...b7f6605b1265e83b4b81495423294208cc74d610">diff</a>.</p>
-
-  
-
 
 
     <footer class="site-footer">
