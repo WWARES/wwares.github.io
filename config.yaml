@@ -46,7 +46,7 @@ params:
 
   # Text colors
   section_headings_color: "#c44633"
-  body_text_color: "#606c71"
+  body_text_color: "#000"
   body_link_color: "#1e6bb8"
   blockquote_text_color: "#819198"
 
