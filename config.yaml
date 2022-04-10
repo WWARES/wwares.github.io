@@ -23,7 +23,7 @@ permalinks:
 params:
   # Header text, can be markdown
   project_name: Walla Walla County Amateur Radio Emergency Service
-  project_tagline: &nbsp;
+  project_tagline:
 
   # Date format for post list and single pages
   # For more date formats see https://gohugo.io/functions/format/
