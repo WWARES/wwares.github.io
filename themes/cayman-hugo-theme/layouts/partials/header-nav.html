@@ -1,9 +1,9 @@
 <section class="page-header">
   <h1 class="project-name">
-    {{ $.Site.Params.project_name | default "project_name goes here" | markdownify }}
+    {{ $.Site.Params.project_name | markdownify }}
   </h1>
   <h2 class="project-tagline">
-    {{ $.Site.Params.project_tagline | default "project_tagline goes here" | markdownify }}
+    {{ $.Site.Params.project_tagline | markdownify }}
   </h2>
   <nav>
     {{ $current := . }}
