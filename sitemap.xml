@@ -2,48 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wwares.github.io/about/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://wwares.github.io/</loc>
-    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wwares.github.io/pages/</loc>
-    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
+    <loc>https://wwares.github.io/cayman-typography/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wwares.github.io/pages/terms-and-conditions/</loc>
-    <lastmod>2021-07-16T00:00:00+00:00</lastmod>
+    <loc>https://wwares.github.io/tags/markdown/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://wwares.github.io/blog/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wwares.github.io/blog/post-1/</loc>
-    <lastmod>2021-07-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wwares.github.io/blog/post-2/</loc>
-    <lastmod>2021-07-13T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wwares.github.io/blog/post-3/</loc>
-    <lastmod>2021-07-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wwares.github.io/blog/post-4/</loc>
-    <lastmod>2021-07-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wwares.github.io/blog/post-5/</loc>
-    <lastmod>2021-07-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wwares.github.io/blog/post-6/</loc>
-    <lastmod>2021-07-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wwares.github.io/blog/post-7/</loc>
-    <lastmod>2021-07-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wwares.github.io/blog/post-8/</loc>
-    <lastmod>2021-07-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://wwares.github.io/pages/about/</loc>
-  </url><url>
-    <loc>https://wwares.github.io/categories/</loc>
-  </url><url>
-    <loc>https://wwares.github.io/pages/contact/</loc>
+    <loc>https://wwares.github.io/post/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wwares.github.io/tags/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/tags/typography/</loc>
+    <lastmod>2019-03-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/tags/earth/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/tags/figure/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/tags/moon/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/tags/nasa/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/nasa-images/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/tags/shortcodes/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/tags/sun/</loc>
+    <lastmod>2018-12-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/hugo-template-primer/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/tags/jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
 </urlset>
