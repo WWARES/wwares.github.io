@@ -3,7 +3,7 @@ $large-breakpoint: {{ $.Site.Params.large_breakpoint | default "64em" }} !defaul
 $medium-breakpoint: {{ $.Site.Params.medium_breakpoint | default "42em" }} !default;
 
 // Headers
-$header-heading-color: {{ $.Site.Params.header_heading_color | default "#fff" }} !default; 
+$header-heading-color: {{ $.Site.Params.header_heading_color | default "#fff" }} !default;
 $header-bg-color: {{ $.Site.Params.header_background_color | default "#159957" }} !default;
 $header-bg-color-secondary: {{ $.Site.Params.header_background_color_secondary | default "#155799" }} !default;
 
@@ -138,7 +138,6 @@ a {
 .project-tagline {
   margin-bottom: 2rem;
   font-weight: normal;
-  opacity: 0.7;
 
   @include large {
     font-size: 1.25rem;
@@ -329,11 +328,16 @@ a {
     border: 0;
   }
 }
-
+.line-breaker{
+  width:100%;
+  clear:both;
+  height: 1rem;
+}
 .site-footer {
   padding-top: 2rem;
   margin-top: 2rem;
   border-top: solid 1px $hr-border-color;
+  clear:both;
 
   @include large {
     font-size: 1rem;

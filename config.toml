@@ -23,7 +23,7 @@ pygmentsStyle = "pygments"
 [params]
   # Header text, can be markdown
   project_name = "Walla Walla County Amateur Radio Emergency Service"
-  project_tagline = "Amateur Radio"
+  project_tagline = "  "
 
   # Date format for post list and single pages
   # For more date formats see https://gohugo.io/functions/format/
@@ -42,7 +42,7 @@ pygmentsStyle = "pygments"
   # Header colors
   header_heading_color = "#fff"
   header_background_color = "#c44633"
-  header_background_color_secondary = "#155799"
+  header_background_color_secondary = "#c48c33"
 
   # Text colors
   section_headings_color = "#159957"
@@ -59,6 +59,9 @@ pygmentsStyle = "pygments"
   table_border_color = "#e9ebec"
   hr_border_color = "#eff0f1"
 
+
+staticDir = ['static']
+
 [menu]
   [[menu.nav]]
     name = "Home"
@@ -66,7 +69,7 @@ pygmentsStyle = "pygments"
     weight = 1
   [[menu.nav]]
     name = "Schedule"
-    url = "/tags/"
+    url = "/schedule"
     weight = 2
   [[menu.nav]]
     name = "W7DP Club"
@@ -84,3 +87,6 @@ pygmentsStyle = "pygments"
     name = "RSS"
     url = "/index.xml"
     weight = 4
+
+[markup.goldmark.renderer]
+unsafe= true
