@@ -234,3 +234,8 @@ a {
 
 .site-footer-credits {
   color: #819198; }
+
+.btn-primary {
+  color: #fff;
+  background-color: #007bff;
+  border-color: #007bff; }

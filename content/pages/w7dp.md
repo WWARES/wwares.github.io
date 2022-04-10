@@ -1,5 +1,6 @@
 ---
 title: W7DP Walla Walla Valley Amateur Radio Club
+url: /w7dp
 ---
 
 
@@ -24,5 +25,7 @@ The W7DP clubhouse is at the corner of SE Justice Ave and Taumarson Rd, College 
 **Email: w7dp@wwares.org**
 
 [Follow us on Facebook](https://www.facebook.com/groups/529112863876310/)
+
+[Club Brouchure](/documents/W7DP_Brouchure_02-18-2021.pdf)
 
 {{< embed-pdf url="/documents/W7DP_Brouchure_02-18-2021.pdf" >}}

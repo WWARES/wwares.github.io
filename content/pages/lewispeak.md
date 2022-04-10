@@ -1,5 +1,6 @@
 ---
 title: WA7WWC, Lewis Peak Amateur Repeater Association
+url: /lewispeak
 ---
 ![Lewis Peak Repeaters Association](/images/lpara.jpg)
 

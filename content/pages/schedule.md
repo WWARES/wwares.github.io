@@ -1,5 +1,6 @@
 ---
 title: Schedule
+url: /schedule
 ---
 
 ## Event Schedule
