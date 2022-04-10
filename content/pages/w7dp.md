@@ -1,6 +1,6 @@
 ---
 title: W7DP Walla Walla Valley Amateur Radio Club
-url: /w7dp
+url: /w7dp-club
 ---
 
 
