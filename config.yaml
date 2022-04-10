@@ -1,14 +1,14 @@
-baseURL: https://example.com
+baseURL: https://wwares.github.io
 languageCode: en-us
 defaultContentLanguage: en
 title: Cayman
 theme: cayman-hugo-theme
 
 # Google analytics
-googleAnalytics: UA-123456789-1
+googleAnalytics:
 
 # Disqus comments
-disqusShortname: yourdiscussshortname
+disqusShortname:
 
 # Syntax highlighting
 pygmentsCodefences: true
@@ -22,15 +22,15 @@ permalinks:
 
 params:
   # Header text, can be markdown
-  project_name: Cayman Hugo Theme
-  project_tagline: A clean, responsive Hugo theme, ported from the original Jekyll Cayman theme
+  project_name: Walla Walla County Amateur Radio Emergency Service
+  project_tagline:
 
   # Date format for post list and single pages
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: 2006-01-02
 
   # Footer text, can be markdown
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cayman](https://github.com/zwbetz-gh/cayman-hugo-theme). Deployed to [Netlify](https://www.netlify.com/).
+  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cayman](https://github.com/zwbetz-gh/cayman-hugo-theme).
 
   # If true, the CSS/JS for Katex math typesetting are enabled
   katex: true
@@ -41,8 +41,8 @@ params:
 
   # Header colors
   header_heading_color: "#fff"
-  header_background_color: "#159957"
-  header_background_color_secondary: "#155799"
+  header_background_color: "#c44633"
+  header_background_color_secondary: "#c44633"
 
   # Text colors
   section_headings_color: "#159957"
@@ -61,15 +61,40 @@ params:
 
 menu:
   nav:
-    - name: Blog
+    - name: Home
       url: /
       weight: 1
-    - name: Tags
-      url: /tags/
+    - name: Schedule
+      url: /Schedule
       weight: 2
-    - name: About
-      url: /about/
+    - name: W7DP Club
+      url: /W7DP Club
       weight: 3
-    - name: RSS
-      url: /index.xml
+    - name: LPARA
+      url: /lewispeak
       weight: 4
+    - name: Resources
+      url: /Resources
+      weight: 5
+
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute:
+        block: false
+        title: true
+      autoHeadingID: true
+      autoHeadingIDType: github
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xhtml: false
