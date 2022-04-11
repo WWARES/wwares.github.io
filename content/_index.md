@@ -2,7 +2,7 @@
 title: Home Pages
 ---
 <div>
-<img alt="ARES logo" src="/images/ares.jpg" width="200" style="padding-right:50%; float:left;" />
+<img alt="ARES logo" src="/images/ares.jpg" width="200" style="float:left; margin-right: 3rem" />
 </div>
 
 ## Walla Walla County ARES Leadership
@@ -19,7 +19,6 @@ title: Home Pages
 ---
 
 ## Weekly Training Nets
-
 * Tuesday 1900 on 146.960 MHz (- offset) (PL 74.4) AL1Q
 * Thursday 1900 on 146.960 MHz (- offset) (PL 74.4) AL1Q
 
@@ -32,7 +31,7 @@ title: Home Pages
 
 ---
 <div>
-<img alt="W7DP Club House" src="/images/clubhouse.jpg" style="float:left; margin-right: 3rem" />
+<img alt="W7DP Club House" src="/images/clubhouse.jpg" style="float:right;" />
 </div>
 
 ## Monthly Meeting
