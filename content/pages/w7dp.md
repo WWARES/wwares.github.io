@@ -28,4 +28,3 @@ The W7DP clubhouse is at the corner of SE Justice Ave and Taumarson Rd, College 
 
 [Club Brouchure](/documents/W7DP_Brouchure_02-18-2021.pdf)
 
-{{< embed-pdf url="/documents/W7DP_Brouchure_02-18-2021.pdf" >}}
