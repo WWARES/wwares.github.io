@@ -37,3 +37,6 @@ Due to the COVID-19 pandemic, we are holding pre-registration only sessions with
 |Thursdays at 7pm * |Walla Walla ARES Training Net	146.96 MHz (-) PL 74.4|
 
 *No nets on meeting nights or holidays.
+
+## Training Schedule
+![Wall Walla ARES Training Schedule PDF](/documents/20220105_Net-Schedule.pdf)
