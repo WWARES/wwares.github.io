@@ -52,4 +52,4 @@ Email: n7acw@arrl.net
 Ph: (509) 540-0544
 
 **Join our WWARES Group.io Forum**
-[WWARES Forum on Groups.io | ](https://groups.io/g/WWARES)
+[WWARES Forum on Groups.io/:](https://groups.io/g/WWARES)
