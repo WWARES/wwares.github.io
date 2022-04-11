@@ -48,11 +48,8 @@ Third Monday of each month at 1900 at the W7DP Clubhouse; corner of Taumarson Rd
 ## Contact Us
 
 **Keith Carlin**
-
 Email: n7acw@arrl.net
-
 Ph: (509) 540-0544
 
-**Join our WWARES Goup.io Forum**
-
+**Join our WWARES Group.io Forum**
 [WWARES Forum on Groups.io](https://groups.io/g/WWARES)
