@@ -31,7 +31,7 @@ title: Home Pages
 
 ---
 <div>
-<img alt="W7DP Club House" src="/images/clubhouse.jpg" height="175" style="float:right; margin-left:3rem;" />
+<img alt="W7DP Club House" src="/images/clubhouse.jpg" height="220" style="float:right; margin-left:3rem;" />
 </div>
 
 ## Monthly Meeting
