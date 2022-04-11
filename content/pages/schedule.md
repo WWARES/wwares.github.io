@@ -39,4 +39,5 @@ Due to the COVID-19 pandemic, we are holding pre-registration only sessions with
 *No nets on meeting nights or holidays.
 
 ## Training Schedule
-![Wall Walla ARES 2022 Training Schedule](/documents/ARES%202022%20Training%20Schedule.pdf)
+[WW ARES Complete 2022 Training Schedule](/documents/ARES%202022%20Training%20Schedule.pdf)
+![WW ARES 2nd QTR Training Schedule]()
