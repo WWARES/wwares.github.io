@@ -17,7 +17,7 @@ Due to the COVID-19 pandemic, we are holding pre-registration only sessions with
 |DATE|EVENT|
 |--|--|
 |21 May 2022|	Onion Man Triathlon|
-|3 - 5 Jun 2022	|Tour of Walla Walla Bicycle Race|
+|3 & 5 Jun 2022	|Tour of Walla Walla Bicycle Race|
 |3 Dec 2022|Parade of Lights|
 
 
