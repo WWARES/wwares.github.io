@@ -86,7 +86,7 @@ markup:
   goldmark:
     extensions:
       definitionList: true
-      footnote: true
+      footnote: false
       linkify: true
       linkifyProtocol: https
       strikethrough: true
