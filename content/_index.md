@@ -18,7 +18,7 @@ title: Home Pages
 
 ---
 <div>
-<img alt="W7DP Club House" src="/images/radio.jpg" height="220" style="float:right; margin-left:3rem;" />
+<img alt="Radio Control Head" src="/images/radio.jpg" height="160" style="float:right; margin-left:3rem;" />
 </div>
 
 ## Weekly Training Nets
