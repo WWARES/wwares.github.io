@@ -41,4 +41,4 @@ Due to the COVID-19 pandemic, we are holding pre-registration only sessions with
 ## Training Schedule
 {{< embed-pdf url="/documents/ARES%202022%20Training%20Schedule.pdf" >}}
 
-[Download Training Schdule](/documents/ARES%202022%20Training%20Schedule.pdf)
+![PDF](/images/PDF_file_icon.svg)[Download Training Schdule](/documents/ARES%202022%20Training%20Schedule.pdf)
