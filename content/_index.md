@@ -17,6 +17,9 @@ title: Home Pages
 </div>
 
 ---
+<div>
+<img alt="W7DP Club House" src="/images/radio.jpg" height="220" style="float:right; margin-left:3rem;" />
+</div>
 
 ## Weekly Training Nets
 * Tuesday 1900 on 146.960 MHz (- offset) (PL 74.4) AL1Q
