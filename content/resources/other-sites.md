@@ -1,6 +1,6 @@
 ---
-title: Net Control Resources
-date: 2019-03-29
+title: Other Sites
+date: 2022-04-10
 url: other-sites
 ---
 
