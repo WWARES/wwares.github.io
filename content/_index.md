@@ -2,7 +2,7 @@
 title: Home Pages
 ---
 <div>
-<img alt="ARES logo" src="/images/ares.jpg" width="175" style="float:right; margin-left: 3rem" />
+<img alt="ARES logo" src="/images/ares.jpg" width="175" style="float:right; margin-left: 2rem" />
 </div>
 
 ## Walla Walla County ARES Leadership
