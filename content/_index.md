@@ -37,7 +37,7 @@ title: Home Pages
 ## Monthly Meeting
 Third Monday of each month at 1900 at the W7DP Clubhouse; corner of Taumarson Rd and SE Justice Ave, College Place, WA.
 
-[Walla Walla Amateur Radio Brochure (pdf)](/documents/W7DP_Brouchure_02-18-2021.pdf)
+[Walla Walla Amateur Radio Brochure (pdf)](/documents/W7DP_Brochure_02-18-2021.pdf)
 
 
 <div class="line-breaker">
@@ -51,5 +51,5 @@ Third Monday of each month at 1900 at the W7DP Clubhouse; corner of Taumarson Rd
 Email: n7acw@arrl.net
 Ph: (509) 540-0544
 
-**Join our WWARES Group.io Forum:**
+**Join our WWARES Groups.io Forum:**
 [WWARES Forum on Groups.io](https://groups.io/g/WWARES)
