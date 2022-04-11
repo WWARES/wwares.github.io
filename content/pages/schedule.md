@@ -16,9 +16,9 @@ Due to the COVID-19 pandemic, we are holding pre-registration only sessions with
 ## Event Schedule
 |DATE|EVENT|
 |--|--|
-|4 Dec 2021|Parade of Lights|
 |21 May 2022|	Onion Man Triathlon|
 |3 - 5 Jun 2022	|Tour of Walla Walla Bicycle Race|
+|3 Dec 2022|Parade of Lights|
 
 
 ## Meetings Schedule
@@ -29,12 +29,13 @@ Due to the COVID-19 pandemic, we are holding pre-registration only sessions with
 
 *There are no meetings in December.	Instead there will be a Pot Luck (to be scheduled)
 
-## Net Schedule
+## Weekly Net Schedule
 |DATE / TIME|	NET	FREQ|
 |--|--|
-|Mondays at 6:15pm	|EWSEN	147.28 MHz (+) PL (none)|
-|Tuesdays at 7pm *	|Walla Walla ARES Traning Net	146.96 MHz (-) PL 74.4|
-|Thursdays at 7pm * |Walla Walla ARES Training Net	146.96 MHz (-) PL 74.4|
+|Monday at 6:15pm	|EWSEN VHF 147.28 MHz (+) PL (none)|
+|Monday at 6:45pm |EWSEN HF 3.985 MHz | 
+|Tuesday at 7pm *	|Walla Walla ARES Traning Net	146.96 MHz (-) PL 74.4|
+|Thursday at 7pm * |Walla Walla ARES Training Net	146.96 MHz (-) PL 74.4|
 
 *No nets on meeting nights or holidays.
 
