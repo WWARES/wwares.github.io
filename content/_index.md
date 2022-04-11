@@ -23,11 +23,12 @@ title: Home Pages
 </div>
 
 ## Weekly Training Nets
-* Primary - Thursday 1900 on 146.960 MHz (-600) (PL 74.4)
-* More Casual - Tuesday 1900 - same frequency
 
-### Alternate frequencies:
-* 147.140 MHz (+600) (PL 94.8) KH6IHB
+* Tuesday 1900 on 146.960 MHz (- offset) (PL 74.4) AL1Q
+* Thursday 1900 on 146.960 MHz (- offset) (PL 74.4) AL1Q
+
+#### Alternate Frequenies
+* 147.140 MHz (+ offset) (PL 94.8) KH6IHB
 * 147.500 MHz Simplex
 
 <div class="line-breaker">
