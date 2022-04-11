@@ -18,18 +18,14 @@ title: Home Pages
 
 ---
 
-<div>
-<img alt="radio" src="/images/radio.jpg" style="float:right;" />
-</div>
-
 ## Weekly Training Nets
 
 * Tuesday 1900 on 146.960 MHz (- offset) (PL 74.4) AL1Q
 * Thursday 1900 on 146.960 MHz (- offset) (PL 74.4) AL1Q
 
-#### Alternate Frequenies
-* 147.140 MHz (+ offset) (PL 94.8) KH6IHB
-* 147.500 MHz Simplex
+  #### Alternate Frequenies
+  * 147.140 MHz (+ offset) (PL 94.8) KH6IHB
+  * 147.500 MHz Simplex
 
 <div class="line-breaker">
 </div>
