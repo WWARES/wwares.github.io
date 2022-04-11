@@ -39,7 +39,7 @@ Due to the COVID-19 pandemic, we are holding pre-registration only sessions with
 *No nets on meeting nights or holidays.
 
 ## Training Schedule
-
 * [WW ARES Complete 2022 Training Schedule](/documents/ARES%202022%20Training%20Schedule.pdf)
 
+#### 2nd Qrt Training Schedule 2022
 ![WW ARES 2nd QTR Training Schedule](/documents/ARES%20QTR%202%202022%20TRAINING%20SCHEDULE.pdf)
