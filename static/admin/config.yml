@@ -17,9 +17,9 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "URL", name: "url", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
-  - label: "Resources"
-    name: "resources"
-    folder: "content/resources/"
+  - label: "Blog"
+    name: "blog"
+    folder: "content/blog/"
     create: true
     fields:
       - {label: "Title", name: "title", widget: "string"}
