@@ -6,7 +6,16 @@
     <description>Recent content in Pages on Walla Walla County Amateur Radio Emergency Service | W7DP Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 11 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wwares.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wwares.github.io/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Net Control</title>
+      <link>https://wwares.github.io/resources_nc/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://wwares.github.io/resources_nc/</guid>
+      <description>Net Controls  Net Control Schedule 1 Jan - 1 Feb 2022 Tuesday Net Control Script 3-3-22 Thursday Net Control Script 3-3-22 Net CheckIn Log 3-3-22 EOC IC-205 Frequency Plan May 2021  </description>
+    </item>
+    
     <item>
       <title>Resources</title>
       <link>https://wwares.github.io/resources/</link>
@@ -22,15 +31,6 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wwares.github.io/pages/resources_forms/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://wwares.github.io/pages/resources_nc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://wwares.github.io/pages/resources_nc/</guid>
       <description></description>
     </item>
     
