@@ -39,7 +39,7 @@ Due to the COVID-19 pandemic, we are holding pre-registration only sessions with
 
 *No nets on meeting nights or holidays.
 
-## Training Schedule <a href="/documents/ARES%202022%20Training%20Schedule.pdf"><h7 style="float:right; color:blue;">(Download)</h7></a>
+## Training Schedule <a href="/documents/ARES%202022%20Training%20Schedule.pdf"><h2 style="float:right; color:blue;">(Download)</h2></a>
 
 {{< embed-pdf url="/documents/ARES%202022%20Training%20Schedule.pdf" >}}
 
