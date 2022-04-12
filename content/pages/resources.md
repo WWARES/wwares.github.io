@@ -6,12 +6,12 @@ url: resources
 
 ### [Net Control](/resources_nc)
 
-### [Forms](/pages/resources_forms)
+### [Forms](/resources_forms)
 
-### [Repeaters](/pages/resources_rptrs)
+### [Repeaters](/resources_rptrs)
 
-### [Winlink & Packet](/pages/resources_winlink)
+### [Winlink & Packet](/resources_winlink)
 
-### [Training Material](/pages/resources_training)
+### [Training Material](/resources_training)
 
-### [Useful Links](/pages/resources_useful)
+### [Useful Links](/resources_useful)
