@@ -35,7 +35,7 @@ title: Home Pages
 ---
 <div>
 <img alt="W7DP Club House" src="/images/clubhouse.jpg" height="220" style="float:right; margin-left:3rem;" />
-</div>
+</div> 
 
 ## Monthly Meeting
 Third Monday of each month at 1900 at the W7DP Clubhouse; corner of Taumarson Rd and SE Justice Ave, College Place, WA.
