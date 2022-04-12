@@ -30,7 +30,7 @@ params:
   dateFormat: 2006-01-02
 
   # Footer text, can be markdown
-  footer: For ARES or this website, contact [Keith Carlin](email://n7acw@arrl.net). For the local ARC contact the [W7DP Club](email://w7dp@wwares.org). 
+  footer: For ARES or this website, contact [Keith Carlin](n7acw@arrl.net). For the local ARC contact the [W7DP Club](w7dp@wwares.org). 
 
   # If true, the CSS/JS for Katex math typesetting are enabled
   katex: true
