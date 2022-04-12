@@ -10,7 +10,7 @@ url: resources
 
 ## [Repeaters](/pages/resources_rptrs.md)
 
-## [Winlink/Packet](/pages/resources_winlink.md)
+## [Winlink & Packet](/pages/resources_winlink.md)
 
 ## [Training Material](/pages/resources_training.md)
 
