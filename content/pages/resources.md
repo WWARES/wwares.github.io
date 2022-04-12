@@ -20,4 +20,4 @@ url: resources
   * Documents and links used for training by Walla Walla County ARES.
 
 ### [Useful Links](/resources_useful)
-  * A general compilation of useful links that include ARES, general opertions, and local organizations.
+  * A general compilation of useful links that include ARES, general amateur interests, and local organizations.
