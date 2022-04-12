@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://wwares.github.io/blog/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://wwares.github.io/</loc>
+    <lastmod>2022-04-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://wwares.github.io/pages/</loc>
     <lastmod>2022-04-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wwares.github.io/resources/</loc>
@@ -15,8 +21,6 @@
     <lastmod>2019-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://wwares.github.io/lewispeak/</loc>
-  </url><url>
-    <loc>https://wwares.github.io/pages/</loc>
   </url><url>
     <loc>https://wwares.github.io/schedule/</loc>
   </url><url>
