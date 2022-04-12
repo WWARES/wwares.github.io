@@ -30,7 +30,7 @@ params:
   dateFormat: 2006-01-02
 
   # Footer text, can be markdown
-  footer: Made with [Hugo](https://gohugo.io/). Themed by [Cayman](https://github.com/zwbetz-gh/cayman-hugo-theme).
+  footer: For questions about Walla Walla County ARES or this website, contact [Keith Carlin](email://n7acw@arrl.net). To contact the Walla Walla Valley Amature Radio Club [W7DP Club](email://w7dp@wwares.org). 
 
   # If true, the CSS/JS for Katex math typesetting are enabled
   katex: true
