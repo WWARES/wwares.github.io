@@ -4,14 +4,14 @@ date: 2022-04-12
 url: resources
 ---
 
-### [Net Control](/resources_nc.md)
+### [Net Control](resources_nc)
 
-### [Forms](/resources_forms.md)
+### [Forms](resources_forms)
 
-### [Repeaters](/resources_rptrs.md)
+### [Repeaters](resources_rptrs)
 
-### [Winlink & Packet](/resources_winlink.md)
+### [Winlink & Packet](resources_winlink)
 
-### [Training Material](/resources_training.md)
+### [Training Material](resources_training)
 
-### [Useful Links](/resources_useful.md)
+### [Useful Links](resources_useful)
