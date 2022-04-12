@@ -4,7 +4,7 @@ date: 2022-04-12
 url: resources
 ---
 
-### [Net Control](/pages/resources_nc)
+### [Net Control](/resources_nc)
 
 ### [Forms](/pages/resources_forms)
 
