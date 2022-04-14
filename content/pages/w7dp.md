@@ -26,5 +26,5 @@ The W7DP clubhouse is at the corner of SE Justice Ave and Taumarson Rd, College 
 
 [Follow us on Facebook](https://www.facebook.com/groups/529112863876310/)
 
-[Walla Walla Amature Radio Brochure](/documents/W7DP%20Brochure%2002-18-2021.pdf)
+[Walla Walla Amateur Radio Brochure](/documents/W7DP%20Brochure%2002-18-2021.pdf)
 
