@@ -4,7 +4,7 @@ date: 2022-04-15
 url: resources_forms
 ---
 
-## Common Forms
+## Common ARES Forms
 * [ARRL Radiogram](/documents/forms/RADIOGRAM-2011.pdf)
 * [FDS-244 Amateur Radio Disaster Welfare Message](/documents/forms/FDS-244.pdf)
 * [ICS-205 Radio Communications Plan](/documents/forms/ICS-205.pdf)
@@ -15,7 +15,7 @@ url: resources_forms
 * [ICS-217A Communications Availability Resource Worksheet](/documents/forms/ICS-217A.pdf)
 * [ICS-309 Communications Log](/documents/forms/ICS-309.pdf)
 
-## Links
+## Form Links
 * [ARRL Public Service/Field Services Forms](http://www.arrl.org/public-service-field-services-forms)
 * [FEMA ICS Forms](https://training.fema.gov/icsresource/icsforms.aspx)
 
