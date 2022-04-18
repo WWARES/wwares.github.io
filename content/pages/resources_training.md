@@ -18,7 +18,7 @@ url: resources_training
 * [NIFOG](/documents/training/NIFOG_2_508.pdf)
 * [Radio Voice Procedures](/documents/training/voice-radio-procedures.pdf)
 * [Pro-Words](/documents/training/pro-words.pdf)
-* [Speach Techniques](/documents/training/speech-techniques.pdf)
+* [Speech Techniques](/documents/training/speech-techniques.pdf)
 * [Walla Walla County ARES Training Schedule](/documents/ARES%202022Training%20Schedule.pdf)
 
 ## Links
