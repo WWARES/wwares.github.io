@@ -8,7 +8,7 @@ url: resources_training
 * [ARES Field Resource Manaul](/documents/training/ARESFieldResourcesManual_rev10-2019.pdf)
 * [ARES Manual](/documents/training/ARESmanual2015.pdf)
 * [ARES Stratigic Plan](/documents/training/ARES_Strategic_Plan.pdf)
-* [ARES Taskbook](/documents/training/ARES_Taskbook.pdf)
+* [ARES Task Book](/documents/training/ARES_Taskbook.pdf)
 * [AUXFOG](/documents/training/AUXFOG_2016.pdf)
 * [Emergency Supply Recomendations](/static/documents/training/emergency_supply_recomendations.pdf)
 * [IS-100 Course Student Manaul](/documents/training/IS0100c_SM.pdf)
