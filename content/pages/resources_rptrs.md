@@ -5,5 +5,10 @@ url: resources_rptrs
 ---
 
 ------
-# Under Construction
+## Local repeaters
 ------
+
+[Download PDF](/documents/repeater/VHF_UHF_Repeaters_NEOR&SEWA.pdf)
+
+
+{{< embed-pdf url="/documents/repeater/VHF_UHF_Repeaters_NEOR&SEWA.pdf" >}}
