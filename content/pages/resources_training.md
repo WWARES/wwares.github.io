@@ -10,7 +10,7 @@ url: resources_training
 * [ARES Stratigic Plan](/documents/training/ARES_Strategic_Plan.pdf)
 * [ARES Task Book](/documents/training/ARES_Taskbook.pdf)
 * [AUXFOG](/documents/training/AUXFOG_2016.pdf)
-* [Emergency Supply Recommendations](/documents/training/emergency_supply_recomendations.pdf)
+* [Emergency Supply Recommendations](/documents/training/emergency_supply_recommendations.pdf)
 * [IS-100 Course Student Manaul](/documents/training/IS0100c_SM.pdf)
 * [IS-200 Course Student Manual](/documents/training/IS0200c_SM.pdf)
 * [IS-700 Course Student Manual](/documents/training/SMIS0700b.pdf)
