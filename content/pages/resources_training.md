@@ -19,7 +19,7 @@ url: resources_training
 * [Radio Voice Procedures](/documents/training/voice-radio-procedures.pdf)
 * [Pro-Words](/documents/training/pro-words.pdf)
 * [Speech Techniques](/documents/training/speech-techniques.pdf)
-* [Walla Walla County ARES Training Schedule](/documents/ARES%202022Training%20Schedule.pdf)
+* [Walla Walla County ARES Training Schedule](/documents/ARES_2022_Training_Schedule.pdf)
 
 ## Links
 * [ARES Page](http://www.arrl.org/ares)
