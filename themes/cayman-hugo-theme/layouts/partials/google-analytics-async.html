@@ -12,4 +12,5 @@
 {{ if not $.Site.IsServer }}
   {{ with $.Site.CloudflareAnalytics }}
 <script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "{{ . }}"}'>
+  {{ end }}
 {{ end }}
