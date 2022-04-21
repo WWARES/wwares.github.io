@@ -4,7 +4,7 @@ date: 2022-04-20
 url: schedule_nc
 ---
 
-![Field Day Schedule](https://docs.google.com/spreadsheets/d/1kLJtSFGzoo0jHdKtQUur60ogzkgVDOfUs0T60LXhICU/edit#gid=0)
+![Field Day Schedule](https://drive.google.com/file/d/0Bw5_DUsbYPpLODV5WUJKTGZqVlk/view?usp=drivesdk&resourcekey=0-wJzS7plBEQELqBY75JVaXw)
 
-[Field Day Schedule](https://docs.google.com/spreadsheets/d/1kLJtSFGzoo0jHdKtQUur60ogzkgVDOfUs0T60LXhICU/edit#gid=0)
+[Field Day Schedule](https://drive.google.com/file/d/0Bw5_DUsbYPpLODV5WUJKTGZqVlk/view?usp=drivesdk&resourcekey=0-wJzS7plBEQELqBY75JVaXw)
 
