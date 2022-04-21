@@ -4,9 +4,6 @@ defaultContentLanguage: en
 title: Walla Walla County Amateur Radio Emergency Service | W7DP Club
 theme: cayman-hugo-theme
 
-# Google analytics
-googleAnalytics:
-CloudflareAnalytics: 61aa51c68070439489a56896197ba2eb
 # Disqus comments
 disqusShortname:
 
