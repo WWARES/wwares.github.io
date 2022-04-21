@@ -2,119 +2,119 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home Pages on Walla Walla County Amateur Radio Emergency Service | W7DP Club</title>
-    <link>https://wwares.github.io/</link>
+    <link>https://www.wwares.org/</link>
     <description>Recent content in Home Pages on Walla Walla County Amateur Radio Emergency Service | W7DP Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://wwares.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 18 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://www.wwares.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Resources</title>
-      <link>https://wwares.github.io/resources/</link>
+      <link>https://www.wwares.org/resources/</link>
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://wwares.github.io/resources/</guid>
+      <guid>https://www.wwares.org/resources/</guid>
       <description>Net Control  Scripts, forms, and other documents to aid net control operators for the Walla Walla ARES training nets.  Forms  Forms used by ARES  Repeaters  List of repeater in Walla Walla County and surrounding areas.  Winlink &amp;amp; Packet  Documents and links related to packet and Winlink operations.  Training &amp;amp; Reference  Documents and links used for training by Walla Walla County ARES.  Useful Links  A general compilation of useful links that include ARES, general amateur interests, and local organizations.</description>
     </item>
     
     <item>
       <title>Training &amp; Reference</title>
-      <link>https://wwares.github.io/resources_training/</link>
+      <link>https://www.wwares.org/resources_training/</link>
       <pubDate>Mon, 18 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://wwares.github.io/resources_training/</guid>
+      <guid>https://www.wwares.org/resources_training/</guid>
       <description>Training and Reference  ARES Field Resource Manaul ARES Manual ARES Stratigic Plan ARES Task Book AUXFOG Emergency Supply Recommendations IS-100 Course Student Manaul IS-200 Course Student Manual IS-700 Course Student Manual IS-800 Course Student Manual NIFOG Radio Voice Procedures Pro-Words Speech Techniques Walla Walla County ARES Training Schedule  Links  ARES Page ARRL Online Courses Part 97 SKYWARN Spotter Online Training Walla Walla County Emergency Managment  </description>
     </item>
     
     <item>
       <title>Forms</title>
-      <link>https://wwares.github.io/resources_forms/</link>
+      <link>https://www.wwares.org/resources_forms/</link>
       <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://wwares.github.io/resources_forms/</guid>
+      <guid>https://www.wwares.org/resources_forms/</guid>
       <description>Common ARES Forms  ARRL Radiogram FSD-244 Amateur Radio Disaster Welfare Message ICS-205 Radio Communications Plan ICS-205A Communications List ICS-213 General Message ICS-213RR WA Resource Request ICS-214 Activity Log ICS-217A Communications Availability Resource Worksheet ICS-309 Communications Log  Form Links  ARRL Public Service/Field Services Forms FEMA ICS Forms  Note Most of these forms can be filled out on a computer using a variety of PDF apps. Adobe Acrobat Reader is the most common.</description>
     </item>
     
     <item>
       <title>Winlink &amp; Packet</title>
-      <link>https://wwares.github.io/resources_winlink/</link>
+      <link>https://www.wwares.org/resources_winlink/</link>
       <pubDate>Fri, 15 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://wwares.github.io/resources_winlink/</guid>
+      <guid>https://www.wwares.org/resources_winlink/</guid>
       <description>Winlink &amp;amp; Packet Documents  Digital Network Diagram EOC WinLink SOP Local Node Usage Winlink ICS-309 Instructions  Links  APRS (Automatic Packet Reporting System) Packet-radio.net Winlink  </description>
     </item>
     
     <item>
       <title>Local Repeaters</title>
-      <link>https://wwares.github.io/resources_rptrs/</link>
+      <link>https://www.wwares.org/resources_rptrs/</link>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://wwares.github.io/resources_rptrs/</guid>
+      <guid>https://www.wwares.org/resources_rptrs/</guid>
       <description>Download PDF
   #the-canvas { border: 1px solid black; direction: ltr; width: 100%; height: auto; display: none; } #paginator { display: none; text-align: center; margin-bottom: 10px; } #loadingWrapper { display: none; justify-content: center; align-items: center; width: 100%; height: 350px; } #loading { display: inline-block; width: 50px; height: 50px; border: 3px solid #d2d0d0;; border-radius: 50%; border-top-color: #383838; animation: spin 1s ease-in-out infinite; -webkit-animation: spin 1s ease-in-out infinite; } @keyframes spin { to { -webkit-transform: rotate(360deg); } } @-webkit-keyframes spin { to { -webkit-transform: rotate(360deg); } }  Previous Next &amp;nbsp; &amp;nbsp; Page:  /       window.</description>
     </item>
     
     <item>
       <title>Net Control</title>
-      <link>https://wwares.github.io/resources_nc/</link>
+      <link>https://www.wwares.org/resources_nc/</link>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://wwares.github.io/resources_nc/</guid>
+      <guid>https://www.wwares.org/resources_nc/</guid>
       <description>Net Controls  Net Control Schedule 1 Jan - 1 Feb 2022 Tuesday Net Control Script 3-3-22 Thursday Net Control Script 3-3-22 Net CheckIn Log 3-3-22 EOC IC-205 Frequency Plan May 2021  </description>
     </item>
     
     <item>
       <title>Useful Links</title>
-      <link>https://wwares.github.io/resources_useful/</link>
+      <link>https://www.wwares.org/resources_useful/</link>
       <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://wwares.github.io/resources_useful/</guid>
+      <guid>https://www.wwares.org/resources_useful/</guid>
       <description>ARES Links  Walla Walla ARES groups.io forum FEMA ICS Forms Washington State Amateur Emergency Communications Spokane County ARES Oregon ARES/RACES East Thurston County ARES Team Santa Clara County, California ARES®/RACES Union County Amateur Radio Service Knox County ARES/RACES-CERT  Amatuer Radio Resources  Amatuer Radio Relay League (ARRL) ARRL Northwestern Division FCC Universal Licensing System Propagation Winlink  Training and Education  What to bring to a VE Session Communications Acadamy Digital Messaging Information FEMA Course Catalog Get a FEMA SID (Student ID) ARRL Online Course Catalog SKYWARN® Online Courses  Other Clubs and Organizations  WF7S Spout Springs Repeater Association W7AZ Tri-Cities Amateur Radio Club AI7HO Hermiston Amateur Radio Club W7GRA Grand Ronde Radio Amateur Association W7NEO Weston Mountain Digital Radio Association  </description>
     </item>
     
     <item>
       <title>Useful Links</title>
-      <link>https://wwares.github.io/useful_links/</link>
+      <link>https://www.wwares.org/useful_links/</link>
       <pubDate>Mon, 11 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://wwares.github.io/useful_links/</guid>
+      <guid>https://www.wwares.org/useful_links/</guid>
       <description>ARES Links  Walla Walla ARES groups.io forum FEMA ICS Forms Washington State Amateur Emergency Communications Spokane County ARES Oregon ARES/RACES East Thurston County ARES Team Santa Clara County, California ARES®/RACES Union County Amateur Radio Service Knox County ARES/RACES-CERT  Amatuer Radio Resources  Amatuer Radio Relay League (ARRL) ARRL Northwestern Division FCC Universal Licensing System Propagation Winlink  Training and Education  What to bring to a VE Session Communications Acadamy Digital Messaging Information FEMA Course Catalog Get a FEMA SID (Student ID) ARRL Online Course Catalog SKYWARN® Online Courses  Other Clubs and Organizations  WF7S Spout Springs Repeater Association W7AZ Tri-Cities Amateur Radio Club AI7HO Hermiston Amateur Radio Club W7GRA Grand Ronde Radio Amateur Association W7NEO Weston Mountain Digital Radio Association  </description>
     </item>
     
     <item>
       <title>Net Control Resources</title>
-      <link>https://wwares.github.io/net-control/</link>
+      <link>https://www.wwares.org/net-control/</link>
       <pubDate>Fri, 29 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://wwares.github.io/net-control/</guid>
+      <guid>https://www.wwares.org/net-control/</guid>
       <description> Net Control Schedule 1 Jan - 1 Feb 2022 Tuesday Net Control Script 3-3-22 Thursday Net Control Script 3-3-22 Net CheckIn Log 3-3-22 EOC IC-205 Frequency Plan May 2021  </description>
     </item>
     
     <item>
       <title>Lewis Peak Amateur Repeater Association</title>
-      <link>https://wwares.github.io/lewispeak/</link>
+      <link>https://www.wwares.org/lewispeak/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wwares.github.io/lewispeak/</guid>
+      <guid>https://www.wwares.org/lewispeak/</guid>
       <description>Serving Amateur Radio Emergency Communications in Walla Walla County Purpose Provide voice and digital communication on VHF/UHF for emergency support of Walla Walla County&amp;rsquo;s Office of Emergency Management. Support the Walla Walla County Amateur Radio Emergency Service.
 Board of Directors  President - Jeff Stidham AL1Q Vice-president - Mikel Potts KB7POT Secretary/Treasurer - Davena Burton KT7JE Emergency Coordinator - Keith Carlin N7ACW Registered Agent - Rick Guse KI7GBU WA7WWC Trustee - Jeff Stidham AL1Q  Repeater frequencies:  146.</description>
     </item>
     
     <item>
       <title>Schedule</title>
-      <link>https://wwares.github.io/schedule/</link>
+      <link>https://www.wwares.org/schedule/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wwares.github.io/schedule/</guid>
+      <guid>https://www.wwares.org/schedule/</guid>
       <description>VE Testing Schedule  16 Jan 2022 3 Apr 2022 17 Jul 2022 16 Oct 2022  Due to the COVID-19 pandemic, we are holding pre-registration only sessions with limited seats. Contact Jeff Stidham at al1q@arrl.net for signup and instructions.
 Event Schedule    DATE EVENT     21 May 2022 Onion Man Triathlon   3 &amp;amp; 5 Jun 2022 Tour of Walla Walla Bicycle Race   3 Dec 2022 Parade of Lights    Meetings Schedule    DATE / TIME MEETING     1st Tuesday of the Month at 7pm W7DP Club Meeting   3rd Monday of the Month at 7pm ARES Meeting    *There are no meetings in December.</description>
     </item>
     
     <item>
       <title>W7DP Walla Walla Valley Amateur Radio Club</title>
-      <link>https://wwares.github.io/w7dp-club/</link>
+      <link>https://www.wwares.org/w7dp-club/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wwares.github.io/w7dp-club/</guid>
+      <guid>https://www.wwares.org/w7dp-club/</guid>
       <description>Monthly Meeting Meetings are held the 1st Tuesday of each month at 7pm.
 The W7DP clubhouse is at the corner of SE Justice Ave and Taumarson Rd, College Place, WA.
 Club Officers  Timber Burton N7DJE - President Davena Burton KC7USG - Vice-president Mikel Potts KB7POT - Secretary Keith Carlin N7ACW - Treasurer Don Grenseman W7UB - Registered Agent David Malcolm KC7JIX - W7DP Station Trustee  Email: w7dp@wwares.org</description>
