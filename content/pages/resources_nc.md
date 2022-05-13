@@ -4,17 +4,14 @@ date: 2022-04-12
 url: resources_nc
 ---
 
-## Net Controls
-
-* Net Control Schedule
-
+**Net Control Schedule**
 |DATE|NET|NET CONTROL|
 |-----|-----|-----|
 |10 Apr|Tuesday ARES Training Net| KJ7TUL Josh|
 |12 Apr|Thursday ARES Training Net|N7DJE Timber|
 |17 Apr|Tuesday ARES Training Net|KI7LGV Evan|
 
-
+---------------------
 
 * [Tuesday Net Control Script 3-3-22](/documents/net_control/WWARES_TuesdayNetControl_Script%2020220303.pdf)
 * [Thursday Net Control Script 3-3-22](/documents/net_control/WWARES_ThursdayNetControl_Script%2020220303.pdf)
