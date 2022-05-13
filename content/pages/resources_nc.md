@@ -4,7 +4,8 @@ date: 2022-04-12
 url: resources_nc
 ---
 
-**Net Control Schedule**
+------------------------
+|Schedule|
 |DATE|NET|NET CONTROL|
 |-----|-----|-----|
 |10 Apr|Tuesday ARES Training Net| KJ7TUL Josh|
