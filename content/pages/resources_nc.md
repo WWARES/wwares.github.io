@@ -5,7 +5,7 @@ url: resources_nc
 ---
 
 ------------------------
-|Schedule|
+**Schedule**
 |DATE|NET|NET CONTROL|
 |-----|-----|-----|
 |10 Apr|Tuesday ARES Training Net| KJ7TUL Josh|
