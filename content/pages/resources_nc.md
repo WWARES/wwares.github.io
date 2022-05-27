@@ -8,9 +8,8 @@ url: resources_nc
 **Schedule**
 |DATE|NET|NET CONTROL|
 |-----|-----|-----|
-|10 Apr|Tuesday ARES Training Net| KJ7TUL Josh|
-|12 Apr|Thursday ARES Training Net|N7DJE Timber|
-|17 Apr|Tuesday ARES Training Net|KI7LGV Evan|
+|31 May|Tuesday ARES Training Net| KT7JE Davena|
+|2 Jun|Thursday ARES Training Net|KB7POT Mikel|
 
 ---------------------
 
