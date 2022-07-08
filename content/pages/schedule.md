@@ -34,7 +34,6 @@ Due to the COVID-19 pandemic, we are holding pre-registration only sessions with
 |--|--|
 |Monday at 6:15pm	|EWSEN VHF 147.28 MHz (+) PL (none)|
 |Monday at 6:45pm |EWSEN HF 3.985 MHz | 
-|Tuesday at 7pm *	|Walla Walla ARES Traning Net	146.96 MHz (-) PL 74.4|
 |Thursday at 7pm * |Walla Walla ARES Training Net	146.96 MHz (-) PL 74.4|
 
 *No nets on meeting nights or holidays.
