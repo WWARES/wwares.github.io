@@ -21,8 +21,7 @@ title: Home Pages
 <img alt="Radio Control Head" src="/images/radio.jpg" height="160" style="float:right; margin-left:3rem;" />
 </div>
 
-## Weekly Training Nets
-* Tuesday 1900 on 146.960 MHz (-) (PL 74.4) AL1Q
+## Weekly Training Net
 * Thursday 1900 on 146.960 MHz (-) (PL 74.4) AL1Q
 
   #### Alternate Frequenies
