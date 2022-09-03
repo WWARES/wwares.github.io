@@ -2,7 +2,7 @@ backend:
   name: github
   repo: WWARES/wwares.github.io
   branch: main # Branch to update (optional; defaults to master)
-  base_url: https://w7dpoauth.herokuapp.com/
+  base_url: https://auth.wwares.org/
   #auth_endpoint: api/auth
 #local_backend: true
 # These lines should *not* be indented
