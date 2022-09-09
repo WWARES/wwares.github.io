@@ -30,8 +30,4 @@ url: /w7dp-minutes
 * [2021-11-02 W7DP Meeting](/documents/minutes/W7DP%20Minutes%202021-11-02.pdf)
 
 
-#### 2020
-
-
-
-#### 2019
+#### Archives (Comming Soonish)
