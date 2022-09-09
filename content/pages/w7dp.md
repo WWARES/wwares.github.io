@@ -13,6 +13,8 @@ Meetings are held the 1st Tuesday of each month at 7pm.
 
 The W7DP clubhouse is at the corner of SE Justice Ave and Taumarson Rd, College Place, WA.
 
+[W7DP Meeting Minutes](/pages/w7dp-minutes/)
+
 ## Club Officers
 
 * Timber Burton N7DJE - President
