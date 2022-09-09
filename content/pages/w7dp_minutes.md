@@ -7,7 +7,7 @@ url: /w7dp-minutes
 
 * [2022-01-04 W7DP Meeting](/documents/minutes/W7DP%20Minutes%202022-01-04.pdf)
 * [2022-02-01 W7DP Meeting](/documents/minutes/W7DP%20Minutes%202022-02-01.pdf)
-* [2022-02-08 W7DP Executive Meeting](/documents/minutes/W7DP%20Executive%20Meeting%2020220208)
+* [2022-02-08 W7DP Executive Meeting](/documents/minutes/W7DP%20Executive%20Meeting%2020220208.pdf)
 * [2022-03-01 W7DP Meeting](/documents/minutes/W7DP%20Minutes%202022-03-01.pdf)
 * [2022-04-05 W7DP Meeting](/documents/minutes/W7DP%20Minutes%202022-04-05.pdf)
 * 2022-05-01 W7DP Meeting
