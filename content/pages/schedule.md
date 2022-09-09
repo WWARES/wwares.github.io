@@ -12,7 +12,7 @@ url: /schedule
 * 16 Jul 2023
 * 15 Oct 2023
 
-Sessions are held at the [Walla Walla University's Chan Shun Pavilian, Rm 154, in College Place, Wa.](https://maps.app.goo.gl/KWugfKvzTDN6zMLX8?g_st=ic) Testing begins at 2pm. Please arrive 30 minutes early. Walk-ins are welcome. Contact Timber Burton at n7dje@hotmail.com for signup and instructions. 
+Sessions are held at the [Walla Walla University's Chan Shun Pavilian, Rm 154, in College Place, Wa.](https://maps.app.goo.gl/z6Voh7e8qNb5mDGT7?g_st=ic) Testing begins at 2pm. Please arrive 30 minutes early. Walk-ins are welcome. Contact Timber Burton at n7dje@hotmail.com for signup and instructions. 
 
 ## Event Schedule
 |DATE|EVENT|
