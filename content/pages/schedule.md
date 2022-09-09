@@ -6,12 +6,13 @@ url: /schedule
 
 ## VE Testing Schedule
 
-* 16 Jan 2022
-* 3 Apr 2022
-* 17 Jul 2022
 * 16 Oct 2022
+* 15 Jan 2023
+* 16 Apr 2023
+* 16 Jul 2023
+* 15 Oct 2023
 
-Due to the COVID-19 pandemic, we are holding pre-registration only sessions with limited seats. Contact Jeff Stidham at al1q@arrl.net for signup and instructions.
+Sessions are held at the Walla Walla University's Chan Shun Building, Rm 154, in College Place, Wa. Testing begins at 2pm. Please arrive 30 minutes early. Walk-ins are welcome. Contact Timber Burton at n7dje@hotmail.com for signup and instructions. 
 
 ## Event Schedule
 |DATE|EVENT|
