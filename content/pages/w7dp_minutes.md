@@ -27,7 +27,7 @@ url: /w7dp-minutes
 * [2021-06-01 W7DP Meeting](/documents/minutes/W7DP%20Minutes%202021-06-01.pdf)
 * [2021-07-06 W7DP Meeting](/documents/minutes/W7DP%20Minutes%202021-07-06.pdf)
 * [2021-08-03 W7DP Meeting](/documents/minutes/W7DP%20Minutes%202021-08-03.pdf)
-* 2021-09-07 W7DP Meeting
+* [2021-09-07 W7DP Meeting](/documents/minutes/W7DP%20Minutes%202021-09-07.pdf)
 * [2021-10-05 W7DP Meeting](/documents/minutes/W7DP%20Minutes%202021-10-05.pdf)
 * [2021-11-02 W7DP Meeting](/documents/minutes/W7DP%20Minutes%202021-11-02.pdf)
 
