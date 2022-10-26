@@ -32,4 +32,10 @@ url: /w7dp-minutes
 * [2021-11-02 W7DP Meeting](/documents/minutes/W7DP%20Minutes%202021-11-02.pdf)
 
 
-#### Archives (Comming Soonish)
+#### Archives
+
+* [W7DP Meeting Archive 2020](/documents/minutes/W7DP%20Meeting%20Archive%202020.zip)
+* [W7DP Meeting Archive 2019](/documents/minutes/W7DP%20Meeting%20Archive%202019.zip)
+* [W7DP Meeting Archive 2018](/documents/minutes/W7DP%20Meeting%20Archive%202018.zip)
+* [W7DP Meeting Archive 2017](/documents/minutes/W7DP%20Meeting%20Archive%202017.zip)
+* [W7DP Meeting Archive 2016](/documents/minutes/W7DP%20Meeting%20Archive%202016.zip)
