@@ -17,16 +17,16 @@ Sessions are held at the [Walla Walla University's Chan Shun Pavilion, Rm 154, i
 ## Event Schedule
 |DATE|EVENT|
 |--|--|
-|21 May 2022|	Onion Man Triathlon|
-|3 & 5 Jun 2022	|Tour of Walla Walla Bicycle Race|
-|3 Dec 2022|Parade of Lights|
+|20 May 2023|	Onion Man Triathlon|
+|2 & 4 Jun 2023|Tour of Walla Walla Bicycle Race|
+|2 Dec 2023|Parade of Lights|
 
 
 ## Meetings Schedule
 |DATE / TIME|	MEETING|
 |--|--|
 |1st Tuesday of the Month at 7pm|	W7DP Club Meeting|
-|3rd Monday of the Month at 7pm	|ARES Meeting|
+|3rd Tuesday of the Month at 7pm	|ARES Meeting|
 
 *There are no meetings in December.	Instead there will be a Pot Luck (to be scheduled)
 
