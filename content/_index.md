@@ -7,10 +7,10 @@ title: Home Pages
 
 ## Walla Walla County ARES Leadership
 
-* Emergency Coordinator - Keith Carlin N7ACW
+* Emergency Coordinator - Mikel Potts KB7POT
+* Assistant EC, Operations - Keith Carlin N7ACW
 * Assistant EC, Digital - Jeff Stidham AL1Q
 * Assistant EC, Communications Trailer - Timber Burton N7DJE
-* Assistant EC, Website - Mikel Potts KB7POT
 
 
 <div class="line-breaker">
@@ -37,7 +37,7 @@ title: Home Pages
 </div> 
 
 ## Monthly Meeting
-Third Monday of each month at 1900 at the W7DP Clubhouse; corner of Taumarson Rd and SE Justice Ave, College Place, WA.
+Third Tuesday of each month at 1900 at the W7DP Clubhouse; 1504 S.E. Justice Ave, College Place, WA, on the corner of Taumarson Rd and SE Justice Ave.
 
 [Walla Walla Amateur Radio Brochure (pdf)](/documents/W7DP%20Brochure%2002-18-2021.pdf)
 
@@ -49,9 +49,9 @@ Third Monday of each month at 1900 at the W7DP Clubhouse; corner of Taumarson Rd
 
 ## Contact Us
 
-**Keith Carlin**
-Email: n7acw@arrl.net
-Ph: (509) 540-0544
+**Mikel Potts**
+Email: kb7pot@arrl.net
+Ph: (509) 386-9707
 
 **Join our WWARES Groups.io Forum:**
 [WWARES Forum on Groups.io](https://groups.io/g/WWARES)
