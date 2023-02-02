@@ -5,7 +5,7 @@ url: resources_nc
 ---
 
 #### SCHEDULE
-[Net Control Schedule](https://docs.google.com/spreadsheets/d/1kxS6EurNnPDQY9_EkQjL1rgD4ifcvtvxP2vcAB78r2s)
+<a href="https://docs.google.com/spreadsheets/d/1kxS6EurNnPDQY9_EkQjL1rgD4ifcvtvxP2vcAB78r2s"> Net Control Schedulet</a>
 
 #### DOCUMENTS
 * [Thursday Net Control Script 2-2-23](/documents/net_control/WW%20ARES%20Thursday%20Net%20Control%20Script%2020230202.pdf)
