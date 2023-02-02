@@ -11,7 +11,7 @@ url: /w7dp-club
 
 Meetings are held the 1st Tuesday of each month at 7pm.
 
-The W7DP clubhouse is at 1504 S.E Justice Ave, College Place, WA, on the corner of SE Justice Ave and Taumarson Rd
+The W7DP clubhouse is at 1504 S.E. Justice Ave, College Place, WA, on the corner of S.E. Justice Ave and Taumarson Rd.
 
 [W7DP Meeting Minutes](/w7dp-minutes/)
 
