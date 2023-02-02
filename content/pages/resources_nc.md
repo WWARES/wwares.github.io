@@ -1,6 +1,6 @@
 ---
 title: Net Control
-date: 2022-04-12
+date: 2023-02-02
 url: resources_nc
 ---
 
