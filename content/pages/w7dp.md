@@ -11,16 +11,17 @@ url: /w7dp-club
 
 Meetings are held the 1st Tuesday of each month at 7pm.
 
-The W7DP clubhouse is at the corner of SE Justice Ave and Taumarson Rd, College Place, WA.
+The W7DP clubhouse is at 1504 S.E Justice Ave, College Place, WA, on the corner of SE Justice Ave and Taumarson Rd
 
 [W7DP Meeting Minutes](/w7dp-minutes/)
 
 ## Club Officers
 
 * Timber Burton N7DJE - President
-* Davena Burton KC7USG - Vice-president
-* Mikel Potts KB7POT - Secretary
+* Jason James KC7ICA - Vice-president
+* Evan Burton AI7OP - Secretary
 * Keith Carlin N7ACW - Treasurer
+* Roy Gothberg W7HJL - Director
 * Don Grenseman W7UB - Registered Agent
 * David Malcolm KC7JIX - W7DP Station Trustee
 
