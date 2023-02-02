@@ -3,10 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.wwares.org/</loc>
-    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://www.wwares.org/resources_nc/</loc>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.wwares.org/pages/</loc>
-    <lastmod>2022-04-18T00:00:00+00:00</lastmod>
+    <lastmod>2023-02-02T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.wwares.org/resources/</loc>
     <lastmod>2022-04-18T00:00:00+00:00</lastmod>
@@ -24,9 +27,6 @@
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.wwares.org/schedule_nc/</loc>
-    <lastmod>2022-04-12T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://www.wwares.org/resources_nc/</loc>
     <lastmod>2022-04-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://www.wwares.org/resources_useful/</loc>
