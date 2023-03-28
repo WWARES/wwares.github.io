@@ -25,11 +25,11 @@ The W7DP clubhouse is at 1504 S.E. Justice Ave, College Place, WA, on the corner
 * Don Grenseman W7UB - Registered Agent
 * David Malcolm KC7JIX - W7DP Station Trustee
 
-**Email: w7dp@wwares.org**
+**Email: w2varc@gmail.com**
 
 [Follow us on Facebook](https://www.facebook.com/groups/529112863876310/)
 
-[Our KiwiSDR at the W7DP Clubhouse](https://receiver.wwares.org)
+DOWN [Our KiwiSDR at the W7DP Clubhouse](https://receiver.wwares.org) DOWN
 
 [Walla Walla Amateur Radio Brochure](/documents/W7DP%20Brochure%2002-18-2021.pdf)
 
