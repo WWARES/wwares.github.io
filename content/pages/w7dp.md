@@ -18,10 +18,10 @@ The W7DP clubhouse is at 1504 S.E. Justice Ave, College Place, WA, on the corner
 ## Club Officers
 
 * Timber Burton N7DJE - President
-* Jason James KC7ICA - Vice-president
-* Evan Burton AI7OP - Secretary
+* Scott Buettner W5SAB - Vice-president
+* Roy Gothberg W7HJL - Secretary
 * Keith Carlin N7ACW - Treasurer
-* Roy Gothberg W7HJL - Director
+* Mikel Potts KB7POT - Director
 * Don Grenseman W7UB - Registered Agent
 * David Malcolm KC7JIX - W7DP Station Trustee
 
@@ -29,7 +29,7 @@ The W7DP clubhouse is at 1504 S.E. Justice Ave, College Place, WA, on the corner
 
 [Follow us on Facebook](https://www.facebook.com/groups/529112863876310/)
 
-DOWN [Our KiwiSDR at the W7DP Clubhouse](https://receiver.wwares.org) DOWN
+[Our KiwiSDR at the W7DP Clubhouse](https://receiver.wwares.org)
 
 [Walla Walla Amateur Radio Brochure](/documents/W7DP%20Brochure%2002-18-2021.pdf)
 
