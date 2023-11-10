@@ -17,8 +17,7 @@ Sessions are held at the [Walla Walla University's Chan Shun Pavilion, Rm 154, i
 ## Event Schedule
 |DATE|EVENT|
 |--|--|
-|20 May 2023|	Onion Man Triathlon|
-|2 & 4 Jun 2023|Tour of Walla Walla Bicycle Race|
+|18 May 2024|	Onion Man Triathlon|
 |2 Dec 2023|Parade of Lights|
 
 
