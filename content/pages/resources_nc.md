@@ -9,5 +9,5 @@ url: resources_nc
 
 #### DOCUMENTS
 * [Thursday Net Control Script 8-16-23](/documents/net_control/WW%20ARES%20Thursday%20Net%20Control%20Script%2020230816.pdf)
-* [Net CheckIn Log 8-16-23](/documents/net_control/WWARES_Net_CheckIn%20Log%20form20220303Fill-In.pdf)
+* [Net CheckIn Log 8-16-23](/documents/net_control/WWARES%20Check-In%20List%20Form%202023-08-16.pdf)
 * [EOC IC-205 Frequency Plan May 2021](/documents/net_control/20210501_WWARES_Initial_ICS205.pdf)
