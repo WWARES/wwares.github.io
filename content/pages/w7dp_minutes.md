@@ -4,7 +4,7 @@ url: /w7dp-minutes
 ---
 #### 2023
 
-[2023-11-07 W7DP Meeting](/documents/minutes/W7DP%20Minutes%202023-11-07.pdf)
+* [2023-11-07 W7DP Meeting](/documents/minutes/W7DP%20Minutes%202023-11-07.pdf)
 
 #### 2022
 
