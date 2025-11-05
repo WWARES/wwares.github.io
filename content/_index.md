@@ -8,7 +8,6 @@ title: Home Pages
 ## Walla Walla County ARES Leadership
 
 * Emergency Coordinator - Mikel Potts KB7POT
-* Assistant EC, Operations - Keith Carlin N7ACW
 * Assistant EC, Digital - Scott Buettner W5SAB
 * Assistant EC, Columbia County - Brian Treadway K7BDT
 * Assistant EC, Communications Trailer - Timber Burton N7DJE
@@ -53,6 +52,3 @@ Third Tuesday of each month at 1900 at the W7DP Clubhouse; 1504 S.E. Justice Ave
 **Mikel Potts**
 Email: kb7pot@arrl.net
 Ph: (509) 386-9707
-
-**Join our WWARES Groups.io Forum:**
-[WWARES Forum on Groups.io](https://groups.io/g/WWARES)
