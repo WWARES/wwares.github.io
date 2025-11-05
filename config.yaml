@@ -72,12 +72,9 @@ menu:
     - name: W7DP Club
       url: /W7DP Club
       weight: 3
-    - name: LPARA
-      url: /lewispeak
-      weight: 4
     - name: Resources
       url: /Resources
-      weight: 5
+      weight: 4
 
 markup:
   goldmark:
