@@ -49,7 +49,7 @@ Third Tuesday of each month at 1900 at the W7DP Clubhouse; 1504 S.E. Justice Ave
 
 ## Contact Us
 
-**Mikel Potts**
+**Mikel Potts** 
 Email: kb7pot@arrl.net
 Ph: (509) 386-9707
 
